@@ -203,10 +203,10 @@ img {
 
 .saturn::before {
     top: 7.5em;
-    right: 5em;
-    width: 4.5em;
-    height: 4.5em;
-    background-image: url('./images/saturn.png');
+    right: 2em;
+    width: 9.5em;
+    height: 4em;
+    background-image: url('./images/saturn-rings.png');
     background-size: cover;
 }
 
