@@ -192,7 +192,7 @@ img {
     background-size: cover;
 }
 
-.jupiter::before{
+.jupiter::before {
     top: 6em;
     right: 3em;
     width: 5em;
@@ -201,7 +201,7 @@ img {
     background-size: cover;
 }
 
-.saturn::before{
+.saturn::before {
     top: 7.5em;
     right: 5em;
     width: 4.5em;
@@ -210,7 +210,7 @@ img {
     background-size: cover;
 }
 
-.uranus::before{
+.uranus::before {
     top: 9em;
     right: 6.5em;
     width: 4em;
@@ -219,7 +219,7 @@ img {
     background-size: cover;
 }
 
-.neptune::before{
+.neptune::before {
     top: 10em;
     right: 8em;
     width: 4em;
@@ -228,7 +228,7 @@ img {
     background-size: cover;
 }
 
-.pluto::before{
+.pluto::before {
     top: 11em;
     right: 10em;
     width: 4em;
@@ -237,7 +237,7 @@ img {
     background-size: cover;
 }
 
-.star{
+.star {
     position: absolute;
     background-color: white;
     border: 50%;
