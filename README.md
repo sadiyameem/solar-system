@@ -1,10 +1,11 @@
 # Solar System Animation
 
 # Description
-- This is a simple web based solar system visual where users can see the solar system spin in a circle
+- This is a simple web based solar system visual where users can see the planets orbit around the sun in a circular motion.
 
 # Feature
-- There are no features but a visual
+-  Hover effects
+-  Starry background
 
 # Tools
 - HTML
@@ -12,7 +13,16 @@
 - JavaScript
 
 # Motivation
-- I wanted to make this project to learn more about the solar system
+- I wanted to make this project to learn more about the solar system and to understand web animations and DOM
 
-# Challenges/Learned
-- 
+# Challenges
+- Making the hover effect to work correctly
+- Positioning the planets in a way that keeps the animation
+
+# Learned 
+- How to use keyframes to create animations
+- How to use z-index to control the order of elements
+
+  # Video
+  <img width="784" height="473" alt="Screenshot 2026-03-25 at 4 39 06 PM" src="https://github.com/user-attachments/assets/b50f56bc-5dde-4678-877f-822762e294ec" />
+
