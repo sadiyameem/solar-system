@@ -145,6 +145,8 @@ img {
     position: absolute;
     border-radius: 50%;
     animation: orbit 30s linear infinite;
+    box-shadow: 0 0 10px white;
+    pointer-events: auto;
 }
 
 .mercury::before {
@@ -240,7 +242,7 @@ img {
 .star {
     position: absolute;
     background-color: white;
-    border: 50%;
+    border-radius: 50%;
     z-index: -1;
 }
 
@@ -249,3 +251,53 @@ img {
         transform: rotate(360deg);
     }
 }
+
+.mercury:hover {
+    border-color: pink;
+}
+
+.venus:hover {
+    border-color: orange;
+}
+
+.earth:hover {
+    border-color: blue;
+}
+
+.moon:hover {
+    border-color: purple;
+}
+
+.mars:hover {
+    border-color: red;
+}
+
+.jupiter:hover {
+    border-color: yellow;
+}
+
+.saturn:hover {
+    border-color: green;
+}
+
+.uranus:hover {
+    border-color:brown;
+}
+
+.neptune:hover {
+    border-color: magenta;
+}
+
+.pluto:hover {
+    border-color: cyan;
+}
+
+.mercury { z-index: 10; }
+.venus { z-index: 9; }
+.earth { z-index: 8; }
+.mars { z-index: 7; }
+.jupiter { z-index: 6; }
+.saturn { z-index: 5; }
+.uranus { z-index: 4; }
+.neptune { z-index: 3; }
+.pluto { z-index: 2; }
